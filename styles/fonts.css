@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "inter regular";
+  src: url(../fonts/Inter/Inter-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "inter bold";
+  src: url(../fonts/Inter/Inter-Bold.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "lexend deca";
+  src: url(../fonts/Lexend_Deca/LexendDeca-Regular.ttf);
+  font-weight: 400;
+}
